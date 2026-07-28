@@ -1,0 +1,18 @@
+import BanachAlaogluTheoremCanonicalLaneLean.AdmissibleClass
+import BanachAlaogluTheoremCanonicalLaneLean.BanachAlaogluObjects
+import BanachAlaogluTheoremCanonicalLaneLean.BridgeLemmas
+import BanachAlaogluTheoremCanonicalLaneLean.GateLemmas
+import BanachAlaogluTheoremCanonicalLaneLean.FinalTheorem
+import BanachAlaogluTheoremCanonicalLaneLean.DualSpaceEvidence
+import BanachAlaogluTheoremCanonicalLaneLean.WeakStarCompactness
+
+namespace HautevilleHouse
+namespace BanachAlaogluTheoremCanonicalLaneLean
+
+-- Root module for the canonical lane of the Banach-Alaoglu theorem.
+-- Imports all supporting modules.
+
+def packageName : String := "BanachAlaogluTheoremCanonicalLaneLean"
+
+end BanachAlaogluTheoremCanonicalLaneLean
+end HautevilleHouse
